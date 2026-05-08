@@ -21,7 +21,7 @@
 name: "Nguyễn Thanh Thế"
 location: "Hanoi, Vietnam"
 education: "University of Engineering and Technology (UET-VNU)"
-field: "Mechatronics Engineering"
+field: "Robotics Engineering"
 specialties:
   - CAD/CAM/CAE (NX Siemens)
   - Mechanical Design & Manufacturing
@@ -31,7 +31,7 @@ specialties:
 current_focus: "Building open-source tools for engineering automation"
 ```
 
-I'm a passionate Mechatronics engineer with expertise in **CAD/CAM/CAE** using **Siemens NX**, **embedded systems development**, and **IoT solutions**. I love combining mechanical design with software to create intelligent, automated systems.
+I'm a passionate Robotics engineer with expertise in **CAD/CAM/CAE** using **Siemens NX**, **embedded systems development**, and **IoT solutions**. I love combining mechanical design with software to create intelligent, automated systems.
 
 ---
 
