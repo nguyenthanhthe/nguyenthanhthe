@@ -28,7 +28,7 @@ specialties:
   - Embedded Systems (ESP32, Arduino)
   - CNC Programming & Post-Processing
   - IoT & Automation
-current_focus: "Building open-source tools for engineering automation"
+current focus: "Building open-source tools for engineering automation"
 ```
 
 I'm a passionate Robotics engineer with expertise in **CAD/CAM/CAE** using **Siemens NX**, **embedded systems development**, and **IoT solutions**. I love combining mechanical design with software to create intelligent, automated systems.
