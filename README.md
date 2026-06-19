@@ -88,9 +88,17 @@ I'm a passionate Robotics engineer with expertise in **CAD/CAM/CAE** using **Sie
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenthanhthe&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenthanhthe&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph"/>
+</div>
 
 ---
+
+## 📫 Let's Connect
 
 ## 📫 Let's Connect
 
